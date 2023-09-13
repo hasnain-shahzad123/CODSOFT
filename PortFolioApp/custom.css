@@ -485,4 +485,206 @@ li.contact{
         padding: 5px;
         font-size: 13px;
     }
+    .ContactMe h1{
+        font-size: 20px;
+    }
+    .ContactMe p{
+        font-size: 14px;
+    }
+    .ContactMe a button{
+        padding: 5px;
+    }
+    .images img{
+        height: 160px;
+        width: 160px;
+    }
+    .AHeading{
+        font-size: 22px;
+    }
+}
+@media only screen and (max-width:575px){
+    .ContactMe p{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:500px){
+
+    #Menu{
+        font-size: 18px;
+    }
+    .MyImage img{
+        height: 230px;
+        width: 180px;
+    }
+    .aboutMyself h1{
+        font-size: 16px;
+        margin-left: -50px;
+    }
+    .aboutMyself p{
+        font-size: 12px;
+        margin-left: -50px;
+    }
+    .icons i{
+        font-size: 17px;
+        padding: 5px;
+    }
+    .btns{
+        margin-top: 30px; 
+        margin-left: -50px;
+    }
+    .btn1{
+        padding: 5px;
+        font-size: 12px;
+        border-radius: 4px;
+    }
+    
+    .btn2{
+        margin-left: 15px;
+        padding: 5px;
+        font-size: 12px;
+        border-radius: 4px;
+    }
+    .skillImage img{
+        height: 210px;
+        width: 210px;
+    }
+    .skillsHeading h1{
+        font-size: 20px;
+    }
+    .skillsHeading p{
+        font-size: 14px;
+    }
+    .projectsHeading h1{
+        font-size: 15px;
+    }
+    .projects{
+        height: 200px;
+        width: 250px;
+    }
+    .projects h1{
+        font-size: 14px;
+    }
+    .projects p{
+        font-size: 10px;
+    }
+    .projects button{
+        padding: 4px;
+        font-size: 10px;
+        bottom: 30px;
+    }
+    .ContactMe h1{
+        font-size: 18px;
+    }
+    .ContactMe p{
+        font-size: 10px;
+    }
+    .images img{
+        height: 150px;
+        width: 150px;
+    }
+    .AHeading{
+        font-size: 18px;
+    }
+
+}
+@media only screen and (max-width:430px){
+    .ContactMe p{
+        font-size: 8px;
+    }
+    .skillsHeading p{
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .skillImage img{
+        height: 200px;
+        width: 200px;
+        position: relative;
+        left: 50px;
+    }
+    
+}
+
+
+@media only screen and (max-width:395px){
+
+    .MyImage img{
+        height: 210px;
+        width: 170px;
+    }
+    .aboutMyself h1{
+        font-size: 14px;
+        margin-left: -70px;
+    }
+    .aboutMyself p{
+        font-size: 10px;
+        margin-left: -70px;
+    }
+    .icons i{
+        font-size: 15px;
+        padding: 3px;
+    }
+    .icons{
+        position: relative;
+        left: -60px;
+    }
+    .btns{
+        margin-top: 30px; 
+        margin-left: -70px;
+    }
+    .btn1{
+        padding: 4px;
+        font-size: 10px;
+        border-radius: 3px;
+    }
+    
+    .btn2{
+        padding: 4px;
+        font-size: 10px;
+        border-radius: 3px;
+    }
+    .skillImage img{
+        height: 200px;
+        width: 200px;
+    }
+    .skillsHeading p{
+        font-size: 12px;
+    }
+    .projectsHeading h1{
+        font-size: 13px;
+    }
+    .projects{
+        height: 180px;
+    }
+    .projects h1{
+        font-size: 12px;
+    }
+    .projects p{
+        font-size: 9px;
+    }
+    .projects button{
+        bottom: 20px;
+    }
+    .ContactMe h1{
+        font-size: 16px;
+    }
+    .ContactMe p{
+        font-size: 7px;
+    }
+    .images img{
+        height: 130px;
+        width: 130px;
+    }
+    .AHeading{
+        font-size: 16px;
+    }
+
+}
+@media only screen and (max-width:355px){
+    .skillsHeading p{
+        font-size: 10px;
+    }
+    .ContactMe p{
+        font-size: 6px;
+        line-height: 10px;
+    }
 }
