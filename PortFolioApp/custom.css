@@ -404,6 +404,15 @@ li.contact{
    }
     
 }
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+    font-size: 15px;
+}
 @media only screen and (max-width:650px){
     .NavBar h3{
         font-size: 12px;
@@ -501,6 +510,9 @@ li.contact{
     .AHeading{
         font-size: 22px;
     }
+    .footer{
+        font-size: 12px;
+    }
 }
 @media only screen and (max-width:575px){
     .ContactMe p{
@@ -585,7 +597,9 @@ li.contact{
     .AHeading{
         font-size: 18px;
     }
-
+    .footer{
+        font-size: 10px;
+    }
 }
 @media only screen and (max-width:430px){
     .ContactMe p{
@@ -676,6 +690,9 @@ li.contact{
     }
     .AHeading{
         font-size: 16px;
+    }
+    .footer{
+        font-size: 8px;
     }
 
 }
